@@ -38,6 +38,8 @@ Example 3:
 ## Solution
 
 - **Language**: Python3
+- **Runtime**: 1595 ms
+- **Memory**: 65.5 MB
 
 ---
 
