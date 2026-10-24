@@ -12,11 +12,11 @@ class Solution:
         left = 0
         right = n - 1
         while left < right:
-            if cleaned[left] != cleaned[right]:
+            if cleaned[left] == cleaned[right]:
                 left = left + 1
                 right = right - 1
             else:
                 return False
                 
-        return cleaned
+        return True
         
