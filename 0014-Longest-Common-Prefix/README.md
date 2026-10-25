@@ -15,18 +15,14 @@ If there is no common prefix, return an empty string `""`.
 
 Example 1:
 
-```
 **Input:** strs = ["flower","flow","flight"]
 **Output:** "fl"
-```
 
 Example 2:
 
-```
 **Input:** strs = ["dog","racecar","car"]
 **Output:** ""
 **Explanation:** There is no common prefix among the input strings.
-```
 
  
 
@@ -42,7 +38,9 @@ Example 2:
 
 ## Solution
 
-- **Language**: Notes
+- **Language**: Python3
+- **Runtime**: 0 ms
+- **Memory**: 19.3 MB
 
 ---
 
