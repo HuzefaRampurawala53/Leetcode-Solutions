@@ -27,7 +27,7 @@ Example 2:
 
 **Constraints:**
 
-	- `1 <= s.length, t.length <= 5 * 10^4`
+	- `1 <= s.length, t.length <= 5 * 104`
 
 	- `s` and `t` consist of lowercase English letters.
 
@@ -39,7 +39,9 @@ Example 2:
 
 ## Solution
 
-- **Language**: Notes
+- **Language**: Python3
+- **Runtime**: 0 ms
+- **Memory**: 19.1 MB
 
 ---
 
