@@ -52,7 +52,7 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 - **Language**: Python3
 - **Runtime**: 0 ms
-- **Memory**: 19 MB
+- **Memory**: 19.1 MB
 
 ---
 
