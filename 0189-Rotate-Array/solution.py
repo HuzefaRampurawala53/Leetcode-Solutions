@@ -1,4 +1,9 @@
 class Solution:
     def rotate(self, nums: list[int], k: int) -> None:
-        return nums[k:] + nums[:k]
+        n = len(nums)
+        if n == 0:
+            return
+
+        k = k % n
+        nums[:] = nums[-k:] + nums[:-k]
         
